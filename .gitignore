@@ -1,7 +1,7 @@
 # Ignore all files in notebook sub-folder
-notebook/*
+C:/Users/Walee/Desktop/Github/Repositories/Python-Project-Analyzing-Northwind-Data/notebook/*
 
 # Exclude the specific file product_analysis.ipynb
-notebook/product_analysis.ipynb
+C:/Users/Walee/Desktop/Github/Repositories/Python-Project-Analyzing-Northwind-Data/notebook/product_analysis.ipynb
 
 
