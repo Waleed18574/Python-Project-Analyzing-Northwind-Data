@@ -1,6 +1,39 @@
-# Python-Project-Analyzing-Northwind-Data (In Progress)
+# Python-Project-Analyzing-Northwind-Data
+## Intro
+Northwind Traders is a fictitious company created by Microsoft for the purposes of demonstrating the database capabilities of Microsoft Access and then later for SQL 
+Server. Since then, it has also been used by numerous companies as a sample database to demonstrate how their development tools work. Northwind database consists of
+8 tables which are customers, employees, suppliers, shippers, categories, products, orders and order-details in resemblance of typlical supply chain company business.
+In this project, I used Northwind database to answer various business questions that may occur in real project. The time frame of the database is between 1994 and 1996,
+however, the business questions and the querying methods are very relevant to the current business environment.
 
-## Data Dictionary
+## Problem Statement
+
+We need to optimize our product portfolio to maximize sales and profitability. Currently, we lack clear insights into product performance, popularity, and contribution to overall revenue. To address this, we will analyze:  
+
+- Total revenue and total quantity sold by each product category  
+- Total revenue and total quantity sold for the top 10 products by revenue  
+- Average monthly demand for the top 10 products by revenue  
+- Bottom 10 products by revenue  
+- Top 10 products by total revenue and total quantity for each category  
+- Bottom products by revenue for each category (maximum of 10)  
+- Categories by total revenue and total quantity for the top 3 countries by revenue  
+- Top product by revenue for the top 3 categories by revenue for the top 3 countries by revenue  
+- Product ABC analysis  
+- Average growth rate for the top 10 products by revenue  
+- Product discount analysis  
+
+## Objectives  
+
+- Analyze product demand patterns and trends over time  
+- Evaluate the profitability of each product  
+- Identify products at different stages of their life cycle  
+- Determine which products are frequently purchased together
+- Categorize products based on their contribution to revenue (ABC analysis)    
+
+This analysis will provide data-driven insights to enhance product portfolio optimization and drive strategic decision-making.
+
+## Data Model
+![](assets/data_model.png)
 
 ## Data Dictionary
 
@@ -56,6 +89,5 @@
 |---------------|-----------|--------------------------------------------------|
 | CustomerID    | String    | Unique identifier for the customer               |
 | Country       | String    | Country where the customer is located            |
-
 
 
