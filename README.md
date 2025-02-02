@@ -27,7 +27,8 @@ We need to optimize our product portfolio to maximize sales and profitability. C
 - Analyze product demand patterns and trends over time  
 - Evaluate the profitability of each product  
 - Identify products at different stages of their life cycle  
-- Categorize products based on their contribution to revenue (ABC analysis)    
+- Categorize products based on their contribution to revenue (ABC analysis)  
+- Evaluate the impact of the discount on revenue  
 
 This analysis will provide data-driven insights to enhance product portfolio optimization and drive strategic decision-making.
 
