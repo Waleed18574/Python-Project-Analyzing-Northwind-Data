@@ -33,7 +33,7 @@ We need to optimize our product portfolio to maximize sales and profitability. C
 This analysis will provide data-driven insights to enhance product portfolio optimization and drive strategic decision-making.
 
 ## Data Model
-![](assets/data_model.png)
+![](assets/data_model.PNG)
 
 ## Data Dictionary
 
