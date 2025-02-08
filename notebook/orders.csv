@@ -1,0 +1,831 @@
+OrderID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10389,1995-01-20,1995-02-17,1995-01-24,2,47.42,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10390,1995-01-23,1995-02-20,1995-01-26,1,126.38,Ernst Handel,Graz,,8010,Austria
+10391,1995-01-23,1995-02-20,1995-01-31,3,5.45,Drachenblut Delikatessen,Aachen,,52066,Germany
+10392,1995-01-24,1995-02-21,1995-02-01,3,122.46,Piccolo und mehr,Salzburg,,5020,Austria
+10393,1995-01-25,1995-02-22,1995-02-03,3,126.56,Save-a-lot Markets,Boise,ID,83720,USA
+10394,1995-01-25,1995-02-22,1995-02-03,3,30.34,Hungry Coyote Import Store,Elgin,OR,97827,USA
+10395,1995-01-26,1995-02-23,1995-02-03,1,184.41,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10396,1995-01-27,1995-02-10,1995-02-06,3,135.35,Frankenversand,MÃ¼nchen,,80805,Germany
+10397,1995-01-27,1995-02-24,1995-02-02,1,60.26,Princesa Isabel Vinhos,Lisboa,,1756,Portugal
+10398,1995-01-30,1995-02-27,1995-02-09,3,89.16,Save-a-lot Markets,Boise,ID,83720,USA
+10399,1995-01-31,1995-02-14,1995-02-08,3,27.36,Vaffeljernet,Ãrhus,,8200,Denmark
+10400,1995-02-01,1995-03-01,1995-02-16,3,83.93,Eastern Connection,London,,WX3 6FW,UK
+10401,1995-02-01,1995-03-01,1995-02-10,1,12.51,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10402,1995-02-02,1995-03-16,1995-02-10,2,67.88,Ernst Handel,Graz,,8010,Austria
+10403,1995-02-03,1995-03-03,1995-02-09,3,73.79,Ernst Handel,Graz,,8010,Austria
+10404,1995-02-03,1995-03-03,1995-02-08,1,155.97,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10405,1995-02-06,1995-03-06,1995-02-22,1,34.82,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10406,1995-02-07,1995-03-21,1995-02-13,1,108.04,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10407,1995-02-07,1995-03-07,1995-03-02,2,91.48,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10408,1995-02-08,1995-03-08,1995-02-14,1,11.26,Folies gourmandes,Lille,,59000,France
+10409,1995-02-09,1995-03-09,1995-02-14,1,29.83,OcÃ©ano AtlÃ¡ntico Ltda.,Buenos Aires,,1010,Argentina
+10410,1995-02-10,1995-03-10,1995-02-15,3,2.4,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10411,1995-02-10,1995-03-10,1995-02-21,3,23.65,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10412,1995-02-13,1995-03-13,1995-02-15,2,3.77,Wartian Herkku,Oulu,,90110,Finland
+10413,1995-02-14,1995-03-14,1995-02-16,2,95.66,La maison d'Asie,Toulouse,,31000,France
+10414,1995-02-14,1995-03-14,1995-02-17,3,21.48,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10415,1995-02-15,1995-03-15,1995-02-24,1,0.2,Hungry Coyote Import Store,Elgin,OR,97827,USA
+10416,1995-02-16,1995-03-16,1995-02-27,3,22.72,Wartian Herkku,Oulu,,90110,Finland
+10248,1994-08-04,1994-09-01,1994-08-16,3,32.38,Vins et alcools Chevalier,Reims,,51100,France
+10249,1994-08-05,1994-09-16,1994-08-10,1,11.61,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10250,1994-08-08,1994-09-05,1994-08-12,2,65.83,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10251,1994-08-08,1994-09-05,1994-08-15,1,41.34,Victuailles en stock,Lyon,,69004,France
+10252,1994-08-09,1994-09-06,1994-08-11,2,51.3,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10253,1994-08-10,1994-08-24,1994-08-16,2,58.17,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10254,1994-08-11,1994-09-08,1994-08-23,2,22.98,Chop-suey Chinese,Bern,,3012,Switzerland
+10255,1994-08-12,1994-09-09,1994-08-15,3,148.33,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10256,1994-08-15,1994-09-12,1994-08-17,2,13.97,Wellington Importadora,Resende,SP,08737-363,Brazil
+10257,1994-08-16,1994-09-13,1994-08-22,3,81.91,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10258,1994-08-17,1994-09-14,1994-08-23,1,140.51,Ernst Handel,Graz,,8010,Austria
+10259,1994-08-18,1994-09-15,1994-08-25,3,3.25,Centro comercial Moctezuma,MÃ©xico D.F.,,05022,Mexico
+10260,1994-08-19,1994-09-16,1994-08-29,1,55.09,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10261,1994-08-19,1994-09-16,1994-08-30,2,3.05,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10262,1994-08-22,1994-09-19,1994-08-25,3,48.29,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10263,1994-08-23,1994-09-20,1994-08-31,3,146.06,Ernst Handel,Graz,,8010,Austria
+10264,1994-08-24,1994-09-21,1994-09-23,3,3.67,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10265,1994-08-25,1994-09-22,1994-09-12,1,55.28,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10266,1994-08-26,1994-10-07,1994-08-31,3,25.73,Wartian Herkku,Oulu,,90110,Finland
+10267,1994-08-29,1994-09-26,1994-09-06,1,208.58,Frankenversand,MÃ¼nchen,,80805,Germany
+10268,1994-08-30,1994-09-27,1994-09-02,3,66.29,GROSELLA-Restaurante,Caracas,DF,1081,Venezuela
+10269,1994-08-31,1994-09-14,1994-09-09,1,4.56,White Clover Markets,Seattle,WA,98124,USA
+10270,1994-09-01,1994-09-29,1994-09-02,1,136.54,Wartian Herkku,Oulu,,90110,Finland
+10271,1994-09-01,1994-09-29,1994-09-30,2,4.54,Split Rail Beer & Ale,Lander,WY,82520,USA
+10272,1994-09-02,1994-09-30,1994-09-06,2,98.03,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10273,1994-09-05,1994-10-03,1994-09-12,3,76.07,QUICK-Stop,Cunewalde,,01307,Germany
+10274,1994-09-06,1994-10-04,1994-09-16,1,6.01,Vins et alcools Chevalier,Reims,,51100,France
+10275,1994-09-07,1994-10-05,1994-09-09,1,26.93,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10276,1994-09-08,1994-09-22,1994-09-14,3,13.84,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10277,1994-09-09,1994-10-07,1994-09-13,3,125.77,Morgenstern Gesundkost,Leipzig,,04179,Germany
+10278,1994-09-12,1994-10-10,1994-09-16,2,92.69,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10279,1994-09-13,1994-10-11,1994-09-16,2,25.83,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10280,1994-09-14,1994-10-12,1994-10-13,1,8.98,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10281,1994-09-14,1994-09-28,1994-09-21,1,2.94,Romero y tomillo,Madrid,,28001,Spain
+10282,1994-09-15,1994-10-13,1994-09-21,1,12.69,Romero y tomillo,Madrid,,28001,Spain
+10283,1994-09-16,1994-10-14,1994-09-23,3,84.81,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10284,1994-09-19,1994-10-17,1994-09-27,1,76.56,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10285,1994-09-20,1994-10-18,1994-09-26,2,76.83,QUICK-Stop,Cunewalde,,01307,Germany
+10286,1994-09-21,1994-10-19,1994-09-30,3,229.24,QUICK-Stop,Cunewalde,,01307,Germany
+10287,1994-09-22,1994-10-20,1994-09-28,3,12.76,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10288,1994-09-23,1994-10-21,1994-10-04,1,7.45,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10289,1994-09-26,1994-10-24,1994-09-28,3,22.77,B's Beverages,London,,EC2 5NT,UK
+10290,1994-09-27,1994-10-25,1994-10-04,1,79.7,ComÃ©rcio Mineiro,SÃ£o Paulo,SP,05432-043,Brazil
+10291,1994-09-27,1994-10-25,1994-10-05,2,6.4,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10292,1994-09-28,1994-10-26,1994-10-03,2,1.35,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10293,1994-09-29,1994-10-27,1994-10-12,3,21.18,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10294,1994-09-30,1994-10-28,1994-10-06,2,147.26,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10295,1994-10-03,1994-10-31,1994-10-11,2,1.15,Vins et alcools Chevalier,Reims,,51100,France
+10296,1994-10-04,1994-11-01,1994-10-12,1,0.12,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10297,1994-10-05,1994-11-16,1994-10-11,2,5.74,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10298,1994-10-06,1994-11-03,1994-10-12,2,168.22,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10299,1994-10-07,1994-11-04,1994-10-14,2,29.76,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10300,1994-10-10,1994-11-07,1994-10-19,2,17.68,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10301,1994-10-10,1994-11-07,1994-10-18,2,45.08,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10302,1994-10-11,1994-11-08,1994-11-09,2,6.27,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10303,1994-10-12,1994-11-09,1994-10-19,2,107.83,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10304,1994-10-13,1994-11-10,1994-10-18,2,63.79,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10305,1994-10-14,1994-11-11,1994-11-09,3,257.62,Old World Delicatessen,Anchorage,AK,99508,USA
+10306,1994-10-17,1994-11-14,1994-10-24,3,7.56,Romero y tomillo,Madrid,,28001,Spain
+10307,1994-10-18,1994-11-15,1994-10-26,2,0.56,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10308,1994-10-19,1994-11-16,1994-10-25,3,1.61,Ana Trujillo Emparedados y helados,MÃ©xico D.F.,,05021,Mexico
+10309,1994-10-20,1994-11-17,1994-11-23,1,47.3,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10310,1994-10-21,1994-11-18,1994-10-28,2,17.52,The Big Cheese,Portland,OR,97201,USA
+10311,1994-10-21,1994-11-04,1994-10-27,3,24.69,Du monde entier,Nantes,,44000,France
+10312,1994-10-24,1994-11-21,1994-11-03,2,40.26,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10313,1994-10-25,1994-11-22,1994-11-04,2,1.96,QUICK-Stop,Cunewalde,,01307,Germany
+10314,1994-10-26,1994-11-23,1994-11-04,2,74.16,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10315,1994-10-27,1994-11-24,1994-11-03,2,41.76,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10316,1994-10-28,1994-11-25,1994-11-08,3,150.15,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10317,1994-10-31,1994-11-28,1994-11-10,1,12.69,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10318,1994-11-01,1994-11-29,1994-11-04,2,4.73,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10319,1994-11-02,1994-11-30,1994-11-11,3,64.5,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10320,1994-11-03,1994-11-17,1994-11-18,3,34.57,Wartian Herkku,Oulu,,90110,Finland
+10321,1994-11-03,1994-12-01,1994-11-11,2,3.43,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10322,1994-11-04,1994-12-02,1994-11-23,3,0.4,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+10323,1994-11-07,1994-12-05,1994-11-14,1,4.88,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10324,1994-11-08,1994-12-06,1994-11-10,1,214.27,Save-a-lot Markets,Boise,ID,83720,USA
+10325,1994-11-09,1994-11-23,1994-11-14,3,64.86,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10326,1994-11-10,1994-12-08,1994-11-14,2,77.92,BÃ³lido Comidas preparadas,Madrid,,28023,Spain
+10327,1994-11-11,1994-12-09,1994-11-14,1,63.36,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10328,1994-11-14,1994-12-12,1994-11-17,3,87.03,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10329,1994-11-15,1994-12-27,1994-11-23,2,191.67,Split Rail Beer & Ale,Lander,WY,82520,USA
+10330,1994-11-16,1994-12-14,1994-11-28,1,12.75,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10331,1994-11-16,1994-12-28,1994-11-21,1,10.19,Bon app',Marseille,,13008,France
+10332,1994-11-17,1994-12-29,1994-11-21,2,52.84,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10333,1994-11-18,1994-12-16,1994-11-25,3,0.59,Wartian Herkku,Oulu,,90110,Finland
+10334,1994-11-21,1994-12-19,1994-11-28,2,8.56,Victuailles en stock,Lyon,,69004,France
+10335,1994-11-22,1994-12-20,1994-11-24,2,42.11,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10336,1994-11-23,1994-12-21,1994-11-25,2,15.51,Princesa Isabel Vinhos,Lisboa,,1756,Portugal
+10337,1994-11-24,1994-12-22,1994-11-29,3,108.26,Frankenversand,MÃ¼nchen,,80805,Germany
+10338,1994-11-25,1994-12-23,1994-11-29,3,84.21,Old World Delicatessen,Anchorage,AK,99508,USA
+10339,1994-11-28,1994-12-26,1994-12-05,2,15.66,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10340,1994-11-29,1994-12-27,1994-12-09,3,166.31,Bon app',Marseille,,13008,France
+10341,1994-11-29,1994-12-27,1994-12-06,3,26.78,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10342,1994-11-30,1994-12-14,1994-12-05,2,54.83,Frankenversand,MÃ¼nchen,,80805,Germany
+10343,1994-12-01,1994-12-29,1994-12-07,1,110.37,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10344,1994-12-02,1994-12-30,1994-12-06,2,23.29,White Clover Markets,Seattle,WA,98124,USA
+10345,1994-12-05,1995-01-02,1994-12-12,2,249.06,QUICK-Stop,Cunewalde,,01307,Germany
+10346,1994-12-06,1995-01-17,1994-12-09,3,142.08,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10347,1994-12-07,1995-01-04,1994-12-09,3,3.1,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10348,1994-12-08,1995-01-05,1994-12-16,2,0.78,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10349,1994-12-09,1995-01-06,1994-12-16,1,8.63,Split Rail Beer & Ale,Lander,WY,82520,USA
+10350,1994-12-12,1995-01-09,1995-01-03,2,64.19,La maison d'Asie,Toulouse,,31000,France
+10351,1994-12-12,1995-01-09,1994-12-21,1,162.33,Ernst Handel,Graz,,8010,Austria
+10352,1994-12-13,1994-12-27,1994-12-19,3,1.3,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10353,1994-12-14,1995-01-11,1994-12-26,3,360.63,Piccolo und mehr,Salzburg,,5020,Austria
+10354,1994-12-15,1995-01-12,1994-12-21,3,53.8,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+10355,1994-12-16,1995-01-13,1994-12-21,1,41.95,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10356,1994-12-19,1995-01-16,1994-12-28,2,36.71,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10357,1994-12-20,1995-01-17,1995-01-02,3,34.88,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10358,1994-12-21,1995-01-18,1994-12-28,1,19.64,La maison d'Asie,Toulouse,,31000,France
+10359,1994-12-22,1995-01-19,1994-12-27,3,288.43,Seven Seas Imports,London,,OX15 4NB,UK
+10360,1994-12-23,1995-01-20,1995-01-02,3,131.7,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10361,1994-12-23,1995-01-20,1995-01-03,2,183.17,QUICK-Stop,Cunewalde,,01307,Germany
+10362,1994-12-26,1995-01-23,1994-12-29,1,96.04,Bon app',Marseille,,13008,France
+10363,1994-12-27,1995-01-24,1995-01-04,3,30.54,Drachenblut Delikatessen,Aachen,,52066,Germany
+10364,1994-12-27,1995-02-07,1995-01-04,1,71.97,Eastern Connection,London,,WX3 6FW,UK
+10365,1994-12-28,1995-01-25,1995-01-02,2,22.0,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10366,1994-12-29,1995-02-09,1995-01-30,2,10.14,GalerÃ­a del gastronÃ³mo,Barcelona,,8022,Spain
+10367,1994-12-29,1995-01-26,1995-01-02,3,13.55,Vaffeljernet,Ãrhus,,8200,Denmark
+10368,1994-12-30,1995-01-27,1995-01-02,2,101.95,Ernst Handel,Graz,,8010,Austria
+10369,1995-01-02,1995-01-30,1995-01-09,2,195.68,Split Rail Beer & Ale,Lander,WY,82520,USA
+10370,1995-01-03,1995-01-31,1995-01-27,2,1.17,Chop-suey Chinese,Bern,,3012,Switzerland
+10371,1995-01-03,1995-01-31,1995-01-24,1,0.45,La maison d'Asie,Toulouse,,31000,France
+10372,1995-01-04,1995-02-01,1995-01-09,2,890.78,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10373,1995-01-05,1995-02-02,1995-01-11,3,124.12,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10374,1995-01-05,1995-02-02,1995-01-09,3,3.94,Wolski Zajazd,Warszawa,,01-012,Poland
+10375,1995-01-06,1995-02-03,1995-01-09,2,20.12,Hungry Coyote Import Store,Elgin,OR,97827,USA
+10376,1995-01-09,1995-02-06,1995-01-13,2,20.39,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10377,1995-01-09,1995-02-06,1995-01-13,3,22.21,Seven Seas Imports,London,,OX15 4NB,UK
+10378,1995-01-10,1995-02-07,1995-01-19,3,5.44,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10379,1995-01-11,1995-02-08,1995-01-13,1,45.03,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10380,1995-01-12,1995-02-09,1995-02-16,3,35.03,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10381,1995-01-12,1995-02-09,1995-01-13,3,7.99,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10382,1995-01-13,1995-02-10,1995-01-16,1,94.77,Ernst Handel,Graz,,8010,Austria
+10383,1995-01-16,1995-02-13,1995-01-18,3,34.24,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10384,1995-01-16,1995-02-13,1995-01-20,3,168.64,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10385,1995-01-17,1995-02-14,1995-01-23,2,30.96,Split Rail Beer & Ale,Lander,WY,82520,USA
+10386,1995-01-18,1995-02-01,1995-01-25,3,13.99,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10387,1995-01-18,1995-02-15,1995-01-20,2,93.63,SantÃ© Gourmet,Stavern,,4110,Norway
+10388,1995-01-19,1995-02-16,1995-01-20,1,34.86,Seven Seas Imports,London,,OX15 4NB,UK
+10417,1995-02-16,1995-03-16,1995-02-28,3,70.29,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10418,1995-02-17,1995-03-17,1995-02-24,1,17.55,QUICK-Stop,Cunewalde,,01307,Germany
+10419,1995-02-20,1995-03-20,1995-03-02,2,137.35,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10420,1995-02-21,1995-03-21,1995-02-27,1,44.12,Wellington Importadora,Resende,SP,08737-363,Brazil
+10421,1995-02-21,1995-04-04,1995-02-27,1,99.23,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10422,1995-02-22,1995-03-22,1995-03-03,1,3.02,Franchi S.p.A.,Torino,,10100,Italy
+10423,1995-02-23,1995-03-09,1995-03-27,3,24.5,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10424,1995-02-23,1995-03-23,1995-02-27,2,370.61,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10425,1995-02-24,1995-03-24,1995-03-17,2,7.93,La maison d'Asie,Toulouse,,31000,France
+10426,1995-02-27,1995-03-27,1995-03-09,1,18.69,GalerÃ­a del gastronÃ³mo,Barcelona,,8022,Spain
+10427,1995-02-27,1995-03-27,1995-04-03,2,31.29,Piccolo und mehr,Salzburg,,5020,Austria
+10428,1995-02-28,1995-03-28,1995-03-07,1,11.09,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10429,1995-03-01,1995-04-12,1995-03-10,2,56.63,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10430,1995-03-02,1995-03-16,1995-03-06,1,458.78,Ernst Handel,Graz,,8010,Austria
+10431,1995-03-02,1995-03-16,1995-03-10,2,44.17,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10432,1995-03-03,1995-03-17,1995-03-10,2,4.34,Split Rail Beer & Ale,Lander,WY,82520,USA
+10433,1995-03-06,1995-04-03,1995-04-04,3,73.83,Princesa Isabel Vinhos,Lisboa,,1756,Portugal
+10434,1995-03-06,1995-04-03,1995-03-16,2,17.92,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10435,1995-03-07,1995-04-18,1995-03-10,2,9.21,Consolidated Holdings,London,,WX1 6LT,UK
+10436,1995-03-08,1995-04-05,1995-03-14,2,156.66,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10437,1995-03-08,1995-04-05,1995-03-15,1,19.97,Wartian Herkku,Oulu,,90110,Finland
+10438,1995-03-09,1995-04-06,1995-03-17,2,8.24,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10439,1995-03-10,1995-04-07,1995-03-13,3,4.07,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10440,1995-03-13,1995-04-10,1995-03-31,2,86.53,Save-a-lot Markets,Boise,ID,83720,USA
+10441,1995-03-13,1995-04-24,1995-04-14,2,73.02,Old World Delicatessen,Anchorage,AK,99508,USA
+10442,1995-03-14,1995-04-11,1995-03-21,2,47.94,Ernst Handel,Graz,,8010,Austria
+10443,1995-03-15,1995-04-12,1995-03-17,1,13.95,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10444,1995-03-15,1995-04-12,1995-03-24,3,3.5,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10445,1995-03-16,1995-04-13,1995-03-23,1,9.3,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10446,1995-03-17,1995-04-14,1995-03-22,1,14.68,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10447,1995-03-17,1995-04-14,1995-04-07,2,68.66,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10448,1995-03-20,1995-04-17,1995-03-27,2,38.82,Rancho grande,Buenos Aires,,1010,Argentina
+10449,1995-03-21,1995-04-18,1995-03-30,2,53.3,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10450,1995-03-22,1995-04-19,1995-04-11,2,7.23,Victuailles en stock,Lyon,,69004,France
+10451,1995-03-22,1995-04-05,1995-04-12,3,189.09,QUICK-Stop,Cunewalde,,01307,Germany
+10452,1995-03-23,1995-04-20,1995-03-29,1,140.26,Save-a-lot Markets,Boise,ID,83720,USA
+10453,1995-03-24,1995-04-21,1995-03-29,2,25.36,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10454,1995-03-24,1995-04-21,1995-03-28,3,2.74,La maison d'Asie,Toulouse,,31000,France
+10455,1995-03-27,1995-05-08,1995-04-03,2,180.45,Wartian Herkku,Oulu,,90110,Finland
+10456,1995-03-28,1995-05-09,1995-03-31,2,8.12,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10457,1995-03-28,1995-04-25,1995-04-03,1,11.57,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10458,1995-03-29,1995-04-26,1995-04-04,3,147.06,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10459,1995-03-30,1995-04-27,1995-03-31,2,25.09,Victuailles en stock,Lyon,,69004,France
+10460,1995-03-31,1995-04-28,1995-04-03,1,16.27,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10461,1995-03-31,1995-04-28,1995-04-05,3,148.61,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10462,1995-04-03,1995-05-01,1995-04-18,1,6.17,Consolidated Holdings,London,,WX1 6LT,UK
+10463,1995-04-04,1995-05-02,1995-04-06,3,14.78,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10464,1995-04-04,1995-05-02,1995-04-14,2,89.0,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10465,1995-04-05,1995-05-03,1995-04-14,3,145.04,Vaffeljernet,Ãrhus,,8200,Denmark
+10466,1995-04-06,1995-05-04,1995-04-13,1,11.93,ComÃ©rcio Mineiro,SÃ£o Paulo,SP,05432-043,Brazil
+10467,1995-04-06,1995-05-04,1995-04-11,2,4.93,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10468,1995-04-07,1995-05-05,1995-04-12,3,44.12,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10469,1995-04-10,1995-05-08,1995-04-14,1,60.18,White Clover Markets,Seattle,WA,98124,USA
+10470,1995-04-11,1995-05-09,1995-04-14,2,64.56,Bon app',Marseille,,13008,France
+10471,1995-04-11,1995-05-09,1995-04-18,3,45.59,B's Beverages,London,,EC2 5NT,UK
+10472,1995-04-12,1995-05-10,1995-04-19,1,4.2,Seven Seas Imports,London,,OX15 4NB,UK
+10473,1995-04-13,1995-04-27,1995-04-21,3,16.37,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10474,1995-04-13,1995-05-11,1995-04-21,2,83.49,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+10475,1995-04-14,1995-05-12,1995-05-05,1,68.52,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10476,1995-04-17,1995-05-15,1995-04-24,3,4.41,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10477,1995-04-17,1995-05-15,1995-04-25,2,13.02,Princesa Isabel Vinhos,Lisboa,,1756,Portugal
+10478,1995-04-18,1995-05-02,1995-04-26,3,4.81,Victuailles en stock,Lyon,,69004,France
+10479,1995-04-19,1995-05-17,1995-04-21,3,708.95,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10480,1995-04-20,1995-05-18,1995-04-24,2,1.35,Folies gourmandes,Lille,,59000,France
+10481,1995-04-20,1995-05-18,1995-04-25,2,64.33,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10482,1995-04-21,1995-05-19,1995-05-11,3,7.48,Lazy K Kountry Store,Walla Walla,WA,99362,USA
+10483,1995-04-24,1995-05-22,1995-05-26,2,15.28,White Clover Markets,Seattle,WA,98124,USA
+10484,1995-04-24,1995-05-22,1995-05-02,3,6.88,B's Beverages,London,,EC2 5NT,UK
+10485,1995-04-25,1995-05-09,1995-05-01,2,64.45,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10486,1995-04-26,1995-05-24,1995-05-03,2,30.53,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10487,1995-04-26,1995-05-24,1995-04-28,2,71.07,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10488,1995-04-27,1995-05-25,1995-05-03,2,4.93,Frankenversand,MÃ¼nchen,,80805,Germany
+10489,1995-04-28,1995-05-26,1995-05-10,2,5.29,Piccolo und mehr,Salzburg,,5020,Austria
+10490,1995-05-01,1995-05-29,1995-05-04,2,210.19,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10491,1995-05-01,1995-05-29,1995-05-09,3,16.96,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10492,1995-05-02,1995-05-30,1995-05-12,1,62.89,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10493,1995-05-03,1995-05-31,1995-05-11,3,10.64,La maison d'Asie,Toulouse,,31000,France
+10494,1995-05-03,1995-05-31,1995-05-10,2,65.99,ComÃ©rcio Mineiro,SÃ£o Paulo,SP,05432-043,Brazil
+10495,1995-05-04,1995-06-01,1995-05-12,3,4.65,Laughing Bacchus Wine Cellars,Vancouver,BC,V3F 2K1,Canada
+10496,1995-05-05,1995-06-02,1995-05-08,2,46.77,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10497,1995-05-05,1995-06-02,1995-05-08,1,36.21,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10498,1995-05-08,1995-06-05,1995-05-12,2,29.75,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10499,1995-05-09,1995-06-06,1995-05-17,2,102.02,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10500,1995-05-10,1995-06-07,1995-05-18,1,42.68,La maison d'Asie,Toulouse,,31000,France
+10501,1995-05-10,1995-06-07,1995-05-17,3,8.85,Blauer See Delikatessen,Mannheim,,68306,Germany
+10502,1995-05-11,1995-06-08,1995-05-30,1,69.32,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+10503,1995-05-12,1995-06-09,1995-05-17,2,16.74,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10504,1995-05-12,1995-06-09,1995-05-19,3,59.13,White Clover Markets,Seattle,WA,98124,USA
+10505,1995-05-15,1995-06-12,1995-05-22,3,7.13,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10506,1995-05-16,1995-06-13,1995-06-02,2,21.19,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10507,1995-05-16,1995-06-13,1995-05-23,1,47.45,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10508,1995-05-17,1995-06-14,1995-06-13,2,4.99,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10509,1995-05-18,1995-06-15,1995-05-30,1,0.15,Blauer See Delikatessen,Mannheim,,68306,Germany
+10510,1995-05-19,1995-06-16,1995-05-29,3,367.63,Save-a-lot Markets,Boise,ID,83720,USA
+10511,1995-05-19,1995-06-16,1995-05-22,3,350.64,Bon app',Marseille,,13008,France
+10512,1995-05-22,1995-06-19,1995-05-25,2,3.53,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10513,1995-05-23,1995-07-04,1995-05-29,1,105.65,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10514,1995-05-23,1995-06-20,1995-06-16,2,789.95,Ernst Handel,Graz,,8010,Austria
+10515,1995-05-24,1995-06-07,1995-06-23,1,204.47,QUICK-Stop,Cunewalde,,01307,Germany
+10516,1995-05-25,1995-06-22,1995-06-01,3,62.78,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10517,1995-05-25,1995-06-22,1995-05-30,3,32.07,North/South,London,,SW7 1RZ,UK
+10518,1995-05-26,1995-06-09,1995-06-05,2,218.15,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10519,1995-05-29,1995-06-26,1995-06-01,3,91.76,Chop-suey Chinese,Bern,,3012,Switzerland
+10520,1995-05-30,1995-06-27,1995-06-01,1,13.37,SantÃ© Gourmet,Stavern,,4110,Norway
+10521,1995-05-30,1995-06-27,1995-06-02,2,17.22,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+10522,1995-05-31,1995-06-28,1995-06-06,1,45.33,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10523,1995-06-01,1995-06-29,1995-06-30,2,77.63,Seven Seas Imports,London,,OX15 4NB,UK
+10524,1995-06-01,1995-06-29,1995-06-07,2,244.79,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10525,1995-06-02,1995-06-30,1995-06-23,2,11.06,Bon app',Marseille,,13008,France
+10526,1995-06-05,1995-07-03,1995-06-15,2,58.59,Wartian Herkku,Oulu,,90110,Finland
+10527,1995-06-05,1995-07-03,1995-06-07,1,41.9,QUICK-Stop,Cunewalde,,01307,Germany
+10528,1995-06-06,1995-06-20,1995-06-09,2,3.35,Great Lakes Food Market,Eugene,OR,97403,USA
+10529,1995-06-07,1995-07-05,1995-06-09,2,66.69,Maison Dewey,Bruxelles,,B-1180,Belgium
+10530,1995-06-08,1995-07-06,1995-06-12,2,339.22,Piccolo und mehr,Salzburg,,5020,Austria
+10531,1995-06-08,1995-07-06,1995-06-19,1,8.12,OcÃ©ano AtlÃ¡ntico Ltda.,Buenos Aires,,1010,Argentina
+10532,1995-06-09,1995-07-07,1995-06-12,3,74.46,Eastern Connection,London,,WX3 6FW,UK
+10533,1995-06-12,1995-07-10,1995-06-22,1,188.04,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10534,1995-06-12,1995-07-10,1995-06-14,2,27.94,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10535,1995-06-13,1995-07-11,1995-06-21,1,15.64,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10536,1995-06-14,1995-07-12,1995-07-07,2,58.88,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10537,1995-06-14,1995-06-28,1995-06-19,1,78.85,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10538,1995-06-15,1995-07-13,1995-06-16,3,4.87,B's Beverages,London,,EC2 5NT,UK
+10539,1995-06-16,1995-07-14,1995-06-23,3,12.36,B's Beverages,London,,EC2 5NT,UK
+10540,1995-06-19,1995-07-17,1995-07-14,3,1007.64,QUICK-Stop,Cunewalde,,01307,Germany
+10541,1995-06-19,1995-07-17,1995-06-29,1,68.65,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10542,1995-06-20,1995-07-18,1995-06-26,3,10.95,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10543,1995-06-21,1995-07-19,1995-06-23,2,48.17,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10544,1995-06-21,1995-07-19,1995-06-30,1,24.91,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10545,1995-06-22,1995-07-20,1995-07-27,2,11.92,Lazy K Kountry Store,Walla Walla,WA,99362,USA
+10546,1995-06-23,1995-07-21,1995-06-27,3,194.72,Victuailles en stock,Lyon,,69004,France
+10547,1995-06-23,1995-07-21,1995-07-03,2,178.43,Seven Seas Imports,London,,OX15 4NB,UK
+10548,1995-06-26,1995-07-24,1995-07-03,2,1.43,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10549,1995-06-27,1995-07-11,1995-06-30,1,171.24,QUICK-Stop,Cunewalde,,01307,Germany
+10550,1995-06-28,1995-07-26,1995-07-07,3,4.32,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10551,1995-06-28,1995-08-09,1995-07-07,3,72.95,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10552,1995-06-29,1995-07-27,1995-07-06,1,83.22,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10553,1995-06-30,1995-07-28,1995-07-04,2,149.49,Wartian Herkku,Oulu,,90110,Finland
+10554,1995-06-30,1995-07-28,1995-07-06,3,120.97,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10555,1995-07-03,1995-07-31,1995-07-05,3,252.49,Save-a-lot Markets,Boise,ID,83720,USA
+10556,1995-07-04,1995-08-15,1995-07-14,1,9.8,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10557,1995-07-04,1995-07-18,1995-07-07,2,96.72,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10558,1995-07-05,1995-08-02,1995-07-11,2,72.97,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10559,1995-07-06,1995-08-03,1995-07-14,1,8.05,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10560,1995-07-07,1995-08-04,1995-07-10,1,36.65,Frankenversand,MÃ¼nchen,,80805,Germany
+10561,1995-07-07,1995-08-04,1995-07-10,2,242.21,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10562,1995-07-10,1995-08-07,1995-07-13,1,22.95,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10563,1995-07-11,1995-08-22,1995-07-25,2,60.43,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10564,1995-07-11,1995-08-08,1995-07-17,3,13.75,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10565,1995-07-12,1995-08-09,1995-07-19,2,7.15,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10566,1995-07-13,1995-08-10,1995-07-19,1,88.4,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10567,1995-07-13,1995-08-10,1995-07-18,1,33.97,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10568,1995-07-14,1995-08-11,1995-08-09,3,6.54,GalerÃ­a del gastronÃ³mo,Barcelona,,8022,Spain
+10569,1995-07-17,1995-08-14,1995-08-11,1,58.98,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10570,1995-07-18,1995-08-15,1995-07-20,3,188.99,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10571,1995-07-18,1995-08-29,1995-08-04,3,26.06,Ernst Handel,Graz,,8010,Austria
+10572,1995-07-19,1995-08-16,1995-07-26,2,116.43,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10573,1995-07-20,1995-08-17,1995-07-21,3,84.84,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10574,1995-07-20,1995-08-17,1995-07-31,2,37.6,Trail's Head Gourmet Provisioners,Kirkland,WA,98034,USA
+10575,1995-07-21,1995-08-04,1995-07-31,1,127.34,Morgenstern Gesundkost,Leipzig,,04179,Germany
+10576,1995-07-24,1995-08-07,1995-07-31,3,18.56,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10577,1995-07-24,1995-09-04,1995-07-31,2,25.41,Trail's Head Gourmet Provisioners,Kirkland,WA,98034,USA
+10578,1995-07-25,1995-08-22,1995-08-25,3,29.6,B's Beverages,London,,EC2 5NT,UK
+10579,1995-07-26,1995-08-23,1995-08-04,2,13.73,Let's Stop N Shop,San Francisco,CA,94117,USA
+10580,1995-07-27,1995-08-24,1995-08-01,3,75.89,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10581,1995-07-27,1995-08-24,1995-08-02,1,3.01,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10582,1995-07-28,1995-08-25,1995-08-14,2,27.71,Blauer See Delikatessen,Mannheim,,68306,Germany
+10583,1995-07-31,1995-08-28,1995-08-04,2,7.28,Wartian Herkku,Oulu,,90110,Finland
+10584,1995-07-31,1995-08-28,1995-08-04,1,59.14,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10585,1995-08-01,1995-08-29,1995-08-10,1,13.41,Wellington Importadora,Resende,SP,08737-363,Brazil
+10586,1995-08-02,1995-08-30,1995-08-09,1,0.48,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10587,1995-08-02,1995-08-30,1995-08-09,1,62.52,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10588,1995-08-03,1995-08-31,1995-08-10,3,194.67,QUICK-Stop,Cunewalde,,01307,Germany
+10589,1995-08-04,1995-09-01,1995-08-14,2,4.42,Great Lakes Food Market,Eugene,OR,97403,USA
+10590,1995-08-07,1995-09-04,1995-08-14,3,44.77,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10591,1995-08-07,1995-08-21,1995-08-16,1,55.92,Vaffeljernet,Ãrhus,,8200,Denmark
+10592,1995-08-08,1995-09-05,1995-08-16,1,32.1,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10593,1995-08-09,1995-09-06,1995-09-13,2,174.2,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10594,1995-08-09,1995-09-06,1995-08-16,2,5.24,Old World Delicatessen,Anchorage,AK,99508,USA
+10595,1995-08-10,1995-09-07,1995-08-14,1,96.78,Ernst Handel,Graz,,8010,Austria
+10596,1995-08-11,1995-09-08,1995-09-12,1,16.34,White Clover Markets,Seattle,WA,98124,USA
+10597,1995-08-11,1995-09-08,1995-08-18,3,35.12,Piccolo und mehr,Salzburg,,5020,Austria
+10598,1995-08-14,1995-09-11,1995-08-18,3,44.42,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10599,1995-08-15,1995-09-26,1995-08-21,3,29.98,B's Beverages,London,,EC2 5NT,UK
+10600,1995-08-16,1995-09-13,1995-08-21,1,45.13,Hungry Coyote Import Store,Elgin,OR,97827,USA
+10601,1995-08-16,1995-09-27,1995-08-22,1,58.3,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10602,1995-08-17,1995-09-14,1995-08-22,2,2.92,Vaffeljernet,Ãrhus,,8200,Denmark
+10603,1995-08-18,1995-09-15,1995-09-08,2,48.77,Save-a-lot Markets,Boise,ID,83720,USA
+10604,1995-08-18,1995-09-15,1995-08-29,1,7.46,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10605,1995-08-21,1995-09-18,1995-08-29,2,379.13,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10606,1995-08-22,1995-09-19,1995-08-31,3,79.4,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10607,1995-08-22,1995-09-19,1995-08-25,1,200.24,Save-a-lot Markets,Boise,ID,83720,USA
+10608,1995-08-23,1995-09-20,1995-09-01,2,27.79,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10609,1995-08-24,1995-09-21,1995-08-30,2,1.85,Du monde entier,Nantes,,44000,France
+10610,1995-08-25,1995-09-22,1995-09-06,1,26.78,La maison d'Asie,Toulouse,,31000,France
+10611,1995-08-25,1995-09-22,1995-09-01,2,80.65,Wolski Zajazd,Warszawa,,01-012,Poland
+10612,1995-08-28,1995-09-25,1995-09-01,2,544.08,Save-a-lot Markets,Boise,ID,83720,USA
+10613,1995-08-29,1995-09-26,1995-09-01,2,8.11,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10614,1995-08-29,1995-09-26,1995-09-01,3,1.93,Blauer See Delikatessen,Mannheim,,68306,Germany
+10615,1995-08-30,1995-09-27,1995-09-06,3,0.75,Wilman Kala,Helsinki,,21240,Finland
+10616,1995-08-31,1995-09-28,1995-09-05,2,116.53,Great Lakes Food Market,Eugene,OR,97403,USA
+10617,1995-08-31,1995-09-28,1995-09-04,2,18.53,Great Lakes Food Market,Eugene,OR,97403,USA
+10618,1995-09-01,1995-10-13,1995-09-08,1,154.68,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10619,1995-09-04,1995-10-02,1995-09-07,3,91.05,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10620,1995-09-05,1995-10-03,1995-09-14,3,0.94,Laughing Bacchus Wine Cellars,Vancouver,BC,V3F 2K1,Canada
+10621,1995-09-05,1995-10-03,1995-09-11,2,23.73,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10622,1995-09-06,1995-10-04,1995-09-11,3,50.97,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10623,1995-09-07,1995-10-05,1995-09-12,2,97.18,Frankenversand,MÃ¼nchen,,80805,Germany
+10624,1995-09-07,1995-10-05,1995-09-19,2,94.8,The Cracker Box,Butte,MT,59801,USA
+10625,1995-09-08,1995-10-06,1995-09-14,1,43.9,Ana Trujillo Emparedados y helados,MÃ©xico D.F.,,05021,Mexico
+10626,1995-09-11,1995-10-09,1995-09-20,2,138.69,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10627,1995-09-11,1995-10-23,1995-09-21,3,107.46,Save-a-lot Markets,Boise,ID,83720,USA
+10628,1995-09-12,1995-10-10,1995-09-20,3,30.36,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10629,1995-09-12,1995-10-10,1995-09-20,3,85.46,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10630,1995-09-13,1995-10-11,1995-09-19,2,32.35,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10631,1995-09-14,1995-10-12,1995-09-15,1,0.87,La maison d'Asie,Toulouse,,31000,France
+10632,1995-09-14,1995-10-12,1995-09-19,1,41.38,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10633,1995-09-15,1995-10-13,1995-09-18,3,477.9,Ernst Handel,Graz,,8010,Austria
+10634,1995-09-15,1995-10-13,1995-09-21,3,487.38,Folies gourmandes,Lille,,59000,France
+10635,1995-09-18,1995-10-16,1995-09-21,3,47.46,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10636,1995-09-19,1995-10-17,1995-09-26,1,1.15,Wartian Herkku,Oulu,,90110,Finland
+10637,1995-09-19,1995-10-17,1995-09-26,1,201.29,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10638,1995-09-20,1995-10-18,1995-10-02,1,158.44,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10639,1995-09-20,1995-10-18,1995-09-27,3,38.64,SantÃ© Gourmet,Stavern,,4110,Norway
+10640,1995-09-21,1995-10-19,1995-09-28,1,23.55,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10641,1995-09-22,1995-10-20,1995-09-26,2,179.61,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10642,1995-09-22,1995-10-20,1995-10-06,3,41.89,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10643,1995-09-25,1995-10-23,1995-10-03,1,29.46,Alfreds Futterkiste,Berlin,,12209,Germany
+10644,1995-09-25,1995-10-23,1995-10-02,2,0.14,Wellington Importadora,Resende,SP,08737-363,Brazil
+10645,1995-09-26,1995-10-24,1995-10-03,1,12.41,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10646,1995-09-27,1995-11-08,1995-10-04,3,142.33,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10647,1995-09-27,1995-10-11,1995-10-04,2,45.54,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10648,1995-09-28,1995-11-09,1995-10-10,2,14.25,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10649,1995-09-28,1995-10-26,1995-09-29,3,6.2,Maison Dewey,Bruxelles,,B-1180,Belgium
+10650,1995-09-29,1995-10-27,1995-10-04,3,176.81,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10651,1995-10-02,1995-10-30,1995-10-12,2,20.6,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10652,1995-10-02,1995-10-30,1995-10-09,2,7.14,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10653,1995-10-03,1995-10-31,1995-10-20,1,93.25,Frankenversand,MÃ¼nchen,,80805,Germany
+10654,1995-10-03,1995-10-31,1995-10-12,1,55.26,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10655,1995-10-04,1995-11-01,1995-10-12,2,4.41,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10656,1995-10-05,1995-11-02,1995-10-11,1,57.15,Great Lakes Food Market,Eugene,OR,97403,USA
+10657,1995-10-05,1995-11-02,1995-10-16,2,352.69,Save-a-lot Markets,Boise,ID,83720,USA
+10658,1995-10-06,1995-11-03,1995-10-09,1,364.15,QUICK-Stop,Cunewalde,,01307,Germany
+10659,1995-10-06,1995-11-03,1995-10-11,2,105.81,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10660,1995-10-09,1995-11-06,1995-11-15,1,111.29,Hungry Coyote Import Store,Elgin,OR,97827,USA
+10661,1995-10-10,1995-11-07,1995-10-16,3,17.55,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10662,1995-10-10,1995-11-07,1995-10-19,2,1.28,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10663,1995-10-11,1995-10-25,1995-11-03,2,113.15,Bon app',Marseille,,13008,France
+10664,1995-10-11,1995-11-08,1995-10-20,3,1.27,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10665,1995-10-12,1995-11-09,1995-10-18,2,26.31,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10666,1995-10-13,1995-11-10,1995-10-23,2,232.42,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10667,1995-10-13,1995-11-10,1995-10-20,1,78.09,Ernst Handel,Graz,,8010,Austria
+10668,1995-10-16,1995-11-13,1995-10-24,2,47.22,Die Wandernde Kuh,Stuttgart,,70563,Germany
+10669,1995-10-16,1995-11-13,1995-10-23,1,24.39,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10670,1995-10-17,1995-11-14,1995-10-19,1,203.48,Frankenversand,MÃ¼nchen,,80805,Germany
+10671,1995-10-18,1995-11-15,1995-10-25,1,30.34,France restauration,Nantes,,44000,France
+10672,1995-10-18,1995-11-01,1995-10-27,2,95.75,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10673,1995-10-19,1995-11-16,1995-10-20,1,22.76,Wilman Kala,Helsinki,,21240,Finland
+10674,1995-10-19,1995-11-16,1995-10-31,2,0.9,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10675,1995-10-20,1995-11-17,1995-10-24,2,31.85,Frankenversand,MÃ¼nchen,,80805,Germany
+10676,1995-10-23,1995-11-20,1995-10-30,2,2.01,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10677,1995-10-23,1995-11-20,1995-10-27,3,4.03,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10678,1995-10-24,1995-11-21,1995-11-16,3,388.98,Save-a-lot Markets,Boise,ID,83720,USA
+10679,1995-10-24,1995-11-21,1995-10-31,3,27.94,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10680,1995-10-25,1995-11-22,1995-10-27,1,26.61,Old World Delicatessen,Anchorage,AK,99508,USA
+10681,1995-10-26,1995-11-23,1995-10-31,3,76.13,Great Lakes Food Market,Eugene,OR,97403,USA
+10682,1995-10-26,1995-11-23,1995-11-01,2,36.13,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10683,1995-10-27,1995-11-24,1995-11-01,1,4.4,Du monde entier,Nantes,,44000,France
+10684,1995-10-27,1995-11-24,1995-10-31,1,145.63,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10685,1995-10-30,1995-11-13,1995-11-03,2,33.75,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10686,1995-10-31,1995-11-28,1995-11-08,1,96.5,Piccolo und mehr,Salzburg,,5020,Austria
+10687,1995-10-31,1995-11-28,1995-11-30,2,296.43,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10688,1995-11-01,1995-11-15,1995-11-07,2,299.09,Vaffeljernet,Ãrhus,,8200,Denmark
+10689,1995-11-01,1995-11-29,1995-11-07,2,13.42,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10690,1995-11-02,1995-11-30,1995-11-03,1,15.8,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10691,1995-11-03,1995-12-15,1995-11-22,2,810.05,QUICK-Stop,Cunewalde,,01307,Germany
+10692,1995-11-03,1995-12-01,1995-11-13,2,61.02,Alfred's Futterkiste,Berlin,,12209,Germany
+10693,1995-11-06,1995-11-20,1995-11-10,3,139.34,White Clover Markets,Seattle,WA,98124,USA
+10694,1995-11-06,1995-12-04,1995-11-09,3,398.36,QUICK-Stop,Cunewalde,,01307,Germany
+10695,1995-11-07,1995-12-19,1995-11-14,1,16.72,Wilman Kala,Helsinki,,21240,Finland
+10696,1995-11-08,1995-12-20,1995-11-14,3,102.55,White Clover Markets,Seattle,WA,98124,USA
+10697,1995-11-08,1995-12-06,1995-11-14,1,45.52,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10698,1995-11-09,1995-12-07,1995-11-17,1,272.47,Ernst Handel,Graz,,8010,Austria
+10699,1995-11-09,1995-12-07,1995-11-13,3,0.58,Morgenstern Gesundkost,Leipzig,,04179,Germany
+10700,1995-11-10,1995-12-08,1995-11-16,1,65.1,Save-a-lot Markets,Boise,ID,83720,USA
+10701,1995-11-13,1995-11-27,1995-11-15,3,220.31,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10702,1995-11-13,1995-12-25,1995-11-21,1,23.94,Alfred's Futterkiste,Berlin,,12209,Germany
+10703,1995-11-14,1995-12-12,1995-11-20,2,152.3,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10704,1995-11-14,1995-12-12,1995-12-08,1,4.78,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10705,1995-11-15,1995-12-13,1995-12-19,2,3.52,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10706,1995-11-16,1995-12-14,1995-11-21,3,135.63,Old World Delicatessen,Anchorage,AK,99508,USA
+10707,1995-11-16,1995-11-30,1995-11-23,3,21.74,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10708,1995-11-17,1995-12-29,1995-12-06,2,2.96,The Big Cheese,Portland,OR,97201,USA
+10709,1995-11-17,1995-12-15,1995-12-21,3,210.8,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10710,1995-11-20,1995-12-18,1995-11-23,1,4.98,Franchi S.p.A.,Torino,,10100,Italy
+10711,1995-11-21,1996-01-02,1995-11-29,2,52.41,Save-a-lot Markets,Boise,ID,83720,USA
+10712,1995-11-21,1995-12-19,1995-12-01,1,89.93,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10713,1995-11-22,1995-12-20,1995-11-24,1,167.05,Save-a-lot Markets,Boise,ID,83720,USA
+10714,1995-11-22,1995-12-20,1995-11-27,3,24.49,Save-a-lot Markets,Boise,ID,83720,USA
+10715,1995-11-23,1995-12-07,1995-11-29,1,63.2,Bon app',Marseille,,13008,France
+10716,1995-11-24,1995-12-22,1995-11-27,2,22.57,Rancho grande,Buenos Aires,,1010,Argentina
+10717,1995-11-24,1995-12-22,1995-11-29,2,59.25,Frankenversand,MÃ¼nchen,,80805,Germany
+10718,1995-11-27,1995-12-25,1995-11-29,3,170.88,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10719,1995-11-27,1995-12-25,1995-12-06,2,51.44,Let's Stop N Shop,San Francisco,CA,94117,USA
+10720,1995-11-28,1995-12-12,1995-12-06,2,9.53,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10721,1995-11-29,1995-12-27,1995-12-01,3,48.92,QUICK-Stop,Cunewalde,,01307,Germany
+10722,1995-11-29,1996-01-10,1995-12-05,1,74.58,Save-a-lot Markets,Boise,ID,83720,USA
+10723,1995-11-30,1995-12-28,1995-12-26,1,21.72,White Clover Markets,Seattle,WA,98124,USA
+10724,1995-11-30,1996-01-11,1995-12-06,2,57.75,MÃ¨re Paillarde,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10725,1995-12-01,1995-12-29,1995-12-06,3,10.83,Familia Arquibaldo,SÃ£o Paulo,SP,05442-030,Brazil
+10726,1995-12-04,1995-12-18,1996-01-05,1,16.56,Eastern Connection,London,,WX3 6FW,UK
+10727,1995-12-04,1996-01-01,1996-01-05,1,89.9,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10728,1995-12-05,1996-01-02,1995-12-12,2,58.33,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10729,1995-12-05,1996-01-16,1995-12-15,3,141.06,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10730,1995-12-06,1996-01-03,1995-12-15,1,20.12,Bon app',Marseille,,13008,France
+10731,1995-12-07,1996-01-04,1995-12-15,1,96.65,Chop-suey Chinese,Bern,,3012,Switzerland
+10732,1995-12-07,1996-01-04,1995-12-08,1,16.97,Bon app',Marseille,,13008,France
+10733,1995-12-08,1996-01-05,1995-12-11,3,110.11,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10734,1995-12-08,1996-01-05,1995-12-13,3,1.63,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10735,1995-12-11,1996-01-08,1995-12-22,2,45.97,Let's Stop N Shop,San Francisco,CA,94117,USA
+10736,1995-12-12,1996-01-09,1995-12-22,2,44.1,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10737,1995-12-12,1996-01-09,1995-12-19,2,7.79,Vins et alcools Chevalier,Reims,,51100,France
+10738,1995-12-13,1996-01-10,1995-12-19,1,2.91,SpÃ©cialitÃ©s du monde,Paris,,75016,France
+10739,1995-12-13,1996-01-10,1995-12-18,3,11.08,Vins et alcools Chevalier,Reims,,51100,France
+10740,1995-12-14,1996-01-11,1995-12-26,2,81.88,White Clover Markets,Seattle,WA,98124,USA
+10741,1995-12-15,1995-12-29,1995-12-19,3,10.96,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10742,1995-12-15,1996-01-12,1995-12-19,3,243.73,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10743,1995-12-18,1996-01-15,1995-12-22,2,23.72,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10744,1995-12-18,1996-01-15,1995-12-25,1,69.19,Vaffeljernet,Ãrhus,,8200,Denmark
+10745,1995-12-19,1996-01-16,1995-12-28,1,3.52,QUICK-Stop,Cunewalde,,01307,Germany
+10746,1995-12-20,1996-01-17,1995-12-22,3,31.43,Chop-suey Chinese,Bern,,3012,Switzerland
+10747,1995-12-20,1996-01-17,1995-12-27,1,117.33,Piccolo und mehr,Salzburg,,5020,Austria
+10748,1995-12-21,1996-01-18,1995-12-29,1,232.55,Save-a-lot Markets,Boise,ID,83720,USA
+10749,1995-12-21,1996-01-18,1996-01-19,2,61.53,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10750,1995-12-22,1996-01-19,1995-12-25,1,79.3,Wartian Herkku,Oulu,,90110,Finland
+10751,1995-12-25,1996-01-22,1996-01-03,3,130.79,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10752,1995-12-25,1996-01-22,1995-12-29,3,1.39,North/South,London,,SW7 1RZ,UK
+10753,1995-12-26,1996-01-23,1995-12-28,1,7.7,Franchi S.p.A.,Torino,,10100,Italy
+10754,1995-12-26,1996-01-23,1995-12-28,3,2.38,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10755,1995-12-27,1996-01-24,1995-12-29,2,16.71,Bon app',Marseille,,13008,France
+10756,1995-12-28,1996-01-25,1996-01-02,2,73.21,Split Rail Beer & Ale,Lander,WY,82520,USA
+10757,1995-12-28,1996-01-25,1996-01-15,1,8.19,Save-a-lot Markets,Boise,ID,83720,USA
+10758,1995-12-29,1996-01-26,1996-01-04,3,138.17,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10759,1995-12-29,1996-01-26,1996-01-12,3,11.99,Ana Trujillo Emparedados y helados,MÃ©xico D.F.,,05021,Mexico
+10760,1996-01-01,1996-01-29,1996-01-10,1,155.64,Maison Dewey,Bruxelles,,B-1180,Belgium
+10761,1996-01-02,1996-01-30,1996-01-08,2,18.66,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10762,1996-01-02,1996-01-30,1996-01-09,1,328.74,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10763,1996-01-03,1996-01-31,1996-01-08,3,37.35,Folies gourmandes,Lille,,59000,France
+10764,1996-01-03,1996-01-31,1996-01-08,3,145.45,Ernst Handel,Graz,,8010,Austria
+10765,1996-01-04,1996-02-01,1996-01-09,3,42.74,QUICK-Stop,Cunewalde,,01307,Germany
+10766,1996-01-05,1996-02-02,1996-01-09,1,157.55,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10767,1996-01-05,1996-02-02,1996-01-15,3,1.59,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10768,1996-01-08,1996-02-05,1996-01-15,2,146.32,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10769,1996-01-08,1996-02-05,1996-01-12,1,65.06,Vaffeljernet,Ãrhus,,8200,Denmark
+10770,1996-01-09,1996-02-06,1996-01-17,3,5.32,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10771,1996-01-10,1996-02-07,1996-02-02,2,11.19,Ernst Handel,Graz,,8010,Austria
+10772,1996-01-10,1996-02-07,1996-01-19,2,91.28,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10773,1996-01-11,1996-02-08,1996-01-16,3,96.43,Ernst Handel,Graz,,8010,Austria
+10774,1996-01-11,1996-01-25,1996-01-12,1,48.2,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10775,1996-01-12,1996-02-09,1996-01-26,1,20.25,The Cracker Box,Butte,MT,59801,USA
+10776,1996-01-15,1996-02-12,1996-01-18,3,351.53,Ernst Handel,Graz,,8010,Austria
+10777,1996-01-15,1996-01-29,1996-02-21,2,3.01,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10778,1996-01-16,1996-02-13,1996-01-24,1,6.79,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10779,1996-01-16,1996-02-13,1996-02-14,2,58.13,Morgenstern Gesundkost,Leipzig,,04179,Germany
+10780,1996-01-16,1996-01-30,1996-01-25,1,42.13,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10781,1996-01-17,1996-02-14,1996-01-19,3,73.16,Wartian Herkku,Oulu,,90110,Finland
+10782,1996-01-17,1996-02-14,1996-01-22,3,1.1,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+10783,1996-01-18,1996-02-15,1996-01-19,2,124.98,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10784,1996-01-18,1996-02-15,1996-01-22,3,70.09,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10785,1996-01-18,1996-02-15,1996-01-24,3,1.51,GROSELLA-Restaurante,Caracas,DF,1081,Venezuela
+10786,1996-01-19,1996-02-16,1996-01-23,1,110.87,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10787,1996-01-19,1996-02-02,1996-01-26,1,249.93,La maison d'Asie,Toulouse,,31000,France
+10788,1996-01-22,1996-02-19,1996-02-19,2,42.7,QUICK-Stop,Cunewalde,,01307,Germany
+10789,1996-01-22,1996-02-19,1996-01-31,2,100.6,Folies gourmandes,Lille,,59000,France
+10790,1996-01-22,1996-02-19,1996-01-26,1,28.23,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10791,1996-01-23,1996-02-20,1996-02-01,2,16.85,Frankenversand,MÃ¼nchen,,80805,Germany
+10792,1996-01-23,1996-02-20,1996-01-31,3,23.79,Wolski Zajazd,Warszawa,,01-012,Poland
+10793,1996-01-24,1996-02-21,1996-02-08,3,4.52,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10794,1996-01-24,1996-02-21,1996-02-02,1,21.49,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10795,1996-01-24,1996-02-21,1996-02-20,2,126.66,Ernst Handel,Graz,,8010,Austria
+10796,1996-01-25,1996-02-22,1996-02-14,1,26.52,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10797,1996-01-25,1996-02-22,1996-02-05,2,33.35,Drachenblut Delikatessen,Aachen,,52066,Germany
+10798,1996-01-26,1996-02-23,1996-02-05,1,2.33,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10799,1996-01-26,1996-03-08,1996-02-05,3,30.76,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10800,1996-01-26,1996-02-23,1996-02-05,3,137.44,Seven Seas Imports,London,,OX15 4NB,UK
+10801,1996-01-29,1996-02-26,1996-01-31,2,97.09,BÃ³lido Comidas preparadas,Madrid,,28023,Spain
+10802,1996-01-29,1996-02-26,1996-02-02,2,257.26,Simons bistro,KÃ¸benhavn,,1734,Denmark
+10803,1996-01-30,1996-02-27,1996-02-06,1,55.23,Wellington Importadora,Resende,SP,08737-363,Brazil
+10804,1996-01-30,1996-02-27,1996-02-07,2,27.33,Seven Seas Imports,London,,OX15 4NB,UK
+10805,1996-01-30,1996-02-27,1996-02-09,3,237.34,The Big Cheese,Portland,OR,97201,USA
+10806,1996-01-31,1996-02-28,1996-02-05,2,22.11,Victuailles en stock,Lyon,,69004,France
+10807,1996-01-31,1996-02-28,1996-03-01,1,1.36,Franchi S.p.A.,Torino,,10100,Italy
+10808,1996-02-01,1996-02-29,1996-02-09,3,45.53,Old World Delicatessen,Anchorage,AK,99508,USA
+10809,1996-02-01,1996-02-29,1996-02-07,1,4.87,Wellington Importadora,Resende,SP,08737-363,Brazil
+10810,1996-02-01,1996-02-29,1996-02-07,3,4.33,Laughing Bacchus Wine Cellars,Vancouver,BC,V3F 2K1,Canada
+10811,1996-02-02,1996-03-01,1996-02-08,1,31.22,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10812,1996-02-02,1996-03-01,1996-02-12,1,59.78,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10813,1996-02-05,1996-03-04,1996-02-09,1,47.38,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10814,1996-02-05,1996-03-04,1996-02-14,3,130.94,Victuailles en stock,Lyon,,69004,France
+10815,1996-02-05,1996-03-04,1996-02-14,3,14.62,Save-a-lot Markets,Boise,ID,83720,USA
+10816,1996-02-06,1996-03-05,1996-03-06,2,719.78,Great Lakes Food Market,Eugene,OR,97403,USA
+10817,1996-02-06,1996-02-20,1996-02-13,2,306.07,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10818,1996-02-07,1996-03-06,1996-02-12,3,65.48,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10819,1996-02-07,1996-03-06,1996-02-16,3,19.76,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+10820,1996-02-07,1996-03-06,1996-02-13,2,37.52,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10821,1996-02-08,1996-03-07,1996-02-15,1,36.68,Split Rail Beer & Ale,Lander,WY,82520,USA
+10822,1996-02-08,1996-03-07,1996-02-16,3,7.0,Trail's Head Gourmet Provisioners,Kirkland,WA,98034,USA
+10823,1996-02-09,1996-03-08,1996-02-13,2,163.97,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10824,1996-02-09,1996-03-08,1996-03-01,1,1.23,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10825,1996-02-09,1996-03-08,1996-02-14,1,79.25,Drachenblut Delikatessen,Aachen,,52066,Germany
+10826,1996-02-12,1996-03-11,1996-03-08,1,7.09,Blondel pÃ¨re et fils,Strasbourg,,67000,France
+10827,1996-02-12,1996-02-26,1996-03-08,2,63.54,Bon app',Marseille,,13008,France
+10828,1996-02-13,1996-02-27,1996-03-06,1,90.85,Rancho grande,Buenos Aires,,1010,Argentina
+10829,1996-02-13,1996-03-12,1996-02-23,1,154.72,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10830,1996-02-13,1996-03-26,1996-02-21,2,81.83,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10831,1996-02-14,1996-03-13,1996-02-23,2,72.19,SantÃ© Gourmet,Stavern,,4110,Norway
+10832,1996-02-14,1996-03-13,1996-02-19,2,43.26,La maison d'Asie,Toulouse,,31000,France
+10833,1996-02-15,1996-03-14,1996-02-23,2,71.49,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+10834,1996-02-15,1996-03-14,1996-02-19,3,29.78,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10835,1996-02-15,1996-03-14,1996-02-21,3,69.53,Alfred's Futterkiste,Berlin,,12209,Germany
+10836,1996-02-16,1996-03-15,1996-02-21,1,411.88,Ernst Handel,Graz,,8010,Austria
+10837,1996-02-16,1996-03-15,1996-02-23,3,13.32,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10838,1996-02-19,1996-03-18,1996-02-23,3,59.28,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10839,1996-02-19,1996-03-18,1996-02-22,3,35.43,TradiÃ§Ã£o Hipermercados,SÃ£o Paulo,SP,05634-030,Brazil
+10840,1996-02-19,1996-04-01,1996-03-18,2,2.71,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10841,1996-02-20,1996-03-19,1996-02-29,2,424.3,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10842,1996-02-20,1996-03-19,1996-02-29,3,54.42,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10843,1996-02-21,1996-03-20,1996-02-26,2,9.26,Victuailles en stock,Lyon,,69004,France
+10844,1996-02-21,1996-03-20,1996-02-26,2,25.22,Piccolo und mehr,Salzburg,,5020,Austria
+10845,1996-02-21,1996-03-06,1996-03-01,1,212.98,QUICK-Stop,Cunewalde,,01307,Germany
+10846,1996-02-22,1996-04-04,1996-02-23,3,56.46,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10847,1996-02-22,1996-03-07,1996-03-12,3,487.57,Save-a-lot Markets,Boise,ID,83720,USA
+10848,1996-02-23,1996-03-22,1996-02-29,2,38.24,Consolidated Holdings,London,,WX1 6LT,UK
+10849,1996-02-23,1996-03-22,1996-03-01,2,0.56,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10850,1996-02-23,1996-04-05,1996-03-01,1,49.19,Victuailles en stock,Lyon,,69004,France
+10851,1996-02-26,1996-03-25,1996-03-04,1,160.55,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10852,1996-02-26,1996-03-11,1996-03-01,1,174.05,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10853,1996-02-27,1996-03-26,1996-03-05,2,53.83,Blauer See Delikatessen,Mannheim,,68306,Germany
+10854,1996-02-27,1996-03-26,1996-03-07,2,100.22,Ernst Handel,Graz,,8010,Austria
+10855,1996-02-27,1996-03-26,1996-03-06,1,170.97,Old World Delicatessen,Anchorage,AK,99508,USA
+10856,1996-02-28,1996-03-27,1996-03-12,2,58.43,Antonio Moreno TaquerÃ­a,MÃ©xico D.F.,,05023,Mexico
+10857,1996-02-28,1996-03-27,1996-03-08,2,188.85,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10858,1996-02-29,1996-03-28,1996-03-05,1,52.51,La corne d'abondance,Versailles,,78000,France
+10859,1996-02-29,1996-03-28,1996-03-04,2,76.1,Frankenversand,MÃ¼nchen,,80805,Germany
+10860,1996-02-29,1996-03-28,1996-03-06,3,19.26,France restauration,Nantes,,44000,France
+10861,1996-03-01,1996-03-29,1996-03-19,2,14.93,White Clover Markets,Seattle,WA,98124,USA
+10862,1996-03-01,1996-04-12,1996-03-04,2,53.23,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10863,1996-03-04,1996-04-01,1996-03-19,2,30.26,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10864,1996-03-04,1996-04-01,1996-03-11,2,3.04,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10865,1996-03-04,1996-03-18,1996-03-14,1,348.14,QUICK-Stop,Cunewalde,,01307,Germany
+10866,1996-03-05,1996-04-02,1996-03-14,1,109.11,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10867,1996-03-05,1996-04-16,1996-03-13,1,1.93,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10868,1996-03-06,1996-04-03,1996-03-25,2,191.27,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10869,1996-03-06,1996-04-03,1996-03-11,1,143.28,Seven Seas Imports,London,,OX15 4NB,UK
+10870,1996-03-06,1996-04-03,1996-03-15,3,12.04,Wolski Zajazd,Warszawa,,01-012,Poland
+10871,1996-03-07,1996-04-04,1996-03-12,2,112.27,Bon app',Marseille,,13008,France
+10872,1996-03-07,1996-04-04,1996-03-11,2,175.32,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10873,1996-03-08,1996-04-05,1996-03-11,1,0.82,Wilman Kala,Helsinki,,21240,Finland
+10874,1996-03-08,1996-04-05,1996-03-13,2,19.58,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10875,1996-03-08,1996-04-05,1996-04-02,2,32.37,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10876,1996-03-11,1996-04-08,1996-03-14,3,60.42,Bon app',Marseille,,13008,France
+10877,1996-03-11,1996-04-08,1996-03-21,1,38.06,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+10878,1996-03-12,1996-04-09,1996-03-14,1,46.69,QUICK-Stop,Cunewalde,,01307,Germany
+10879,1996-03-12,1996-04-09,1996-03-14,3,8.5,Wilman Kala,Helsinki,,21240,Finland
+10880,1996-03-12,1996-04-23,1996-03-20,1,88.01,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10881,1996-03-13,1996-04-10,1996-03-20,1,2.84,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+10882,1996-03-13,1996-04-10,1996-03-22,3,23.1,Save-a-lot Markets,Boise,ID,83720,USA
+10883,1996-03-14,1996-04-11,1996-03-22,3,0.53,Lonesome Pine Restaurant,Portland,OR,97219,USA
+10884,1996-03-14,1996-04-11,1996-03-15,2,90.97,Let's Stop N Shop,San Francisco,CA,94117,USA
+10885,1996-03-14,1996-04-11,1996-03-20,3,5.64,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10886,1996-03-15,1996-04-12,1996-04-01,1,4.99,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10887,1996-03-15,1996-04-12,1996-03-18,3,1.25,GalerÃ­a del gastronÃ³mo,Barcelona,,8022,Spain
+10888,1996-03-18,1996-04-15,1996-03-25,2,51.87,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10889,1996-03-18,1996-04-15,1996-03-25,3,280.61,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10890,1996-03-18,1996-04-15,1996-03-20,1,32.76,Du monde entier,Nantes,,44000,France
+10891,1996-03-19,1996-04-16,1996-03-21,2,20.37,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10892,1996-03-19,1996-04-16,1996-03-21,2,120.27,Maison Dewey,Bruxelles,,B-1180,Belgium
+10893,1996-03-20,1996-04-17,1996-03-22,2,77.78,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+10894,1996-03-20,1996-04-17,1996-03-22,1,116.13,Save-a-lot Markets,Boise,ID,83720,USA
+10895,1996-03-20,1996-04-17,1996-03-25,1,162.75,Ernst Handel,Graz,,8010,Austria
+10896,1996-03-21,1996-04-18,1996-03-29,3,32.45,Maison Dewey,Bruxelles,,B-1180,Belgium
+10897,1996-03-21,1996-04-18,1996-03-27,2,603.54,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10898,1996-03-22,1996-04-19,1996-04-05,2,1.27,OcÃ©ano AtlÃ¡ntico Ltda.,Buenos Aires,,1010,Argentina
+10899,1996-03-22,1996-04-19,1996-03-28,3,1.21,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10900,1996-03-22,1996-04-19,1996-04-03,2,1.66,Wellington Importadora,Resende,SP,08737-363,Brazil
+10901,1996-03-25,1996-04-22,1996-03-28,1,62.09,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10902,1996-03-25,1996-04-22,1996-04-02,1,44.15,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10903,1996-03-26,1996-04-23,1996-04-03,3,36.71,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10904,1996-03-26,1996-04-23,1996-03-29,3,162.95,White Clover Markets,Seattle,WA,98124,USA
+10905,1996-03-26,1996-04-23,1996-04-05,2,13.72,Wellington Importadora,Resende,SP,08737-363,Brazil
+10906,1996-03-27,1996-04-10,1996-04-02,3,26.29,Wolski Zajazd,Warszawa,,01-012,Poland
+10907,1996-03-27,1996-04-24,1996-03-29,3,9.19,SpÃ©cialitÃ©s du monde,Paris,,75016,France
+10908,1996-03-28,1996-04-25,1996-04-05,2,32.96,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10909,1996-03-28,1996-04-25,1996-04-09,2,53.05,SantÃ© Gourmet,Stavern,,4110,Norway
+10910,1996-03-28,1996-04-25,1996-04-03,3,38.11,Wilman Kala,Helsinki,,21240,Finland
+10911,1996-03-28,1996-04-25,1996-04-04,1,38.19,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10912,1996-03-28,1996-04-25,1996-04-17,2,580.91,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10913,1996-03-28,1996-04-25,1996-04-03,1,33.05,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10914,1996-03-29,1996-04-26,1996-04-01,1,21.19,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10915,1996-03-29,1996-04-26,1996-04-01,2,3.51,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+10916,1996-03-29,1996-04-26,1996-04-08,2,63.77,Rancho grande,Buenos Aires,,1010,Argentina
+10917,1996-04-01,1996-04-29,1996-04-10,2,8.29,Romero y tomillo,Madrid,,28001,Spain
+10918,1996-04-01,1996-04-29,1996-04-10,3,48.83,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10919,1996-04-01,1996-04-29,1996-04-03,2,19.8,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10920,1996-04-02,1996-04-30,1996-04-08,2,29.61,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10921,1996-04-02,1996-05-14,1996-04-08,1,176.48,Vaffeljernet,Ãrhus,,8200,Denmark
+10922,1996-04-02,1996-04-30,1996-04-04,3,62.74,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10923,1996-04-02,1996-05-14,1996-04-12,3,68.26,La maison d'Asie,Toulouse,,31000,France
+10924,1996-04-03,1996-05-01,1996-05-08,2,151.52,Berglunds snabbkÃ¶p,LuleÃ¥,,S-958 22,Sweden
+10925,1996-04-03,1996-05-01,1996-04-12,1,2.27,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10926,1996-04-03,1996-05-01,1996-04-10,3,39.92,Ana Trujillo Emparedados y helados,MÃ©xico D.F.,,05021,Mexico
+10927,1996-04-04,1996-05-02,1996-05-08,1,19.79,La corne d'abondance,Versailles,,78000,France
+10928,1996-04-04,1996-05-02,1996-04-17,1,1.36,GalerÃ­a del gastronÃ³mo,Barcelona,,8022,Spain
+10929,1996-04-04,1996-05-02,1996-04-11,1,33.93,Frankenversand,MÃ¼nchen,,80805,Germany
+10930,1996-04-05,1996-05-17,1996-04-17,3,15.55,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+10931,1996-04-05,1996-04-19,1996-04-18,2,13.6,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10932,1996-04-05,1996-05-03,1996-04-23,1,134.64,Bon app',Marseille,,13008,France
+10933,1996-04-05,1996-05-03,1996-04-15,3,54.15,Island Trading,Cowes,Isle of Wight,PO31 7PJ,UK
+10934,1996-04-08,1996-05-06,1996-04-11,3,32.01,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+10935,1996-04-08,1996-05-06,1996-04-17,3,47.59,Wellington Importadora,Resende,SP,08737-363,Brazil
+10936,1996-04-08,1996-05-06,1996-04-17,2,33.68,Great Lakes Food Market,Eugene,OR,97403,USA
+10937,1996-04-09,1996-04-23,1996-04-12,3,31.51,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+10938,1996-04-09,1996-05-07,1996-04-15,2,31.89,QUICK-Stop,Cunewalde,,01307,Germany
+10939,1996-04-09,1996-05-07,1996-04-12,2,76.33,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10940,1996-04-10,1996-05-08,1996-04-22,3,19.77,Bon app',Marseille,,13008,France
+10941,1996-04-10,1996-05-08,1996-04-19,2,400.81,Save-a-lot Markets,Boise,ID,83720,USA
+10942,1996-04-10,1996-05-08,1996-04-17,3,17.95,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+10943,1996-04-10,1996-05-08,1996-04-18,2,2.17,B's Beverages,London,,EC2 5NT,UK
+10944,1996-04-11,1996-04-25,1996-04-12,3,52.92,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10945,1996-04-11,1996-05-09,1996-04-17,1,10.22,Morgenstern Gesundkost,Leipzig,,04179,Germany
+10946,1996-04-11,1996-05-09,1996-04-18,2,27.2,Vaffeljernet,Ãrhus,,8200,Denmark
+10947,1996-04-12,1996-05-10,1996-04-15,2,3.26,B's Beverages,London,,EC2 5NT,UK
+10948,1996-04-12,1996-05-10,1996-04-18,3,23.39,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+10949,1996-04-12,1996-05-10,1996-04-16,3,74.44,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10950,1996-04-15,1996-05-13,1996-04-22,2,2.5,Magazzini Alimentari Riuniti,Bergamo,,24100,Italy
+10951,1996-04-15,1996-05-27,1996-05-07,2,30.85,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+10952,1996-04-15,1996-05-27,1996-04-23,1,40.42,Alfred's Futterkiste,Berlin,,12209,Germany
+10953,1996-04-15,1996-04-29,1996-04-24,2,23.72,Around the Horn,Colchester,Essex,CO7 6JX,UK
+10954,1996-04-16,1996-05-28,1996-04-19,1,27.91,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+10955,1996-04-16,1996-05-14,1996-04-19,2,3.26,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10956,1996-04-16,1996-05-28,1996-04-19,2,44.65,Blauer See Delikatessen,Mannheim,,68306,Germany
+10957,1996-04-17,1996-05-15,1996-04-26,3,105.36,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10958,1996-04-17,1996-05-15,1996-04-26,2,49.56,OcÃ©ano AtlÃ¡ntico Ltda.,Buenos Aires,,1010,Argentina
+10959,1996-04-17,1996-05-29,1996-04-22,2,4.98,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+10960,1996-04-18,1996-05-02,1996-05-08,1,2.08,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10961,1996-04-18,1996-05-16,1996-04-29,1,104.47,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+10962,1996-04-18,1996-05-16,1996-04-22,2,275.79,QUICK-Stop,Cunewalde,,01307,Germany
+10963,1996-04-18,1996-05-16,1996-04-25,3,2.7,Furia Bacalhau e Frutos do Mar,Lisboa,,1675,Portugal
+10964,1996-04-19,1996-05-17,1996-04-23,2,87.38,SpÃ©cialitÃ©s du monde,Paris,,75016,France
+10965,1996-04-19,1996-05-17,1996-04-29,3,144.38,Old World Delicatessen,Anchorage,AK,99508,USA
+10966,1996-04-19,1996-05-17,1996-05-08,1,27.19,Chop-suey Chinese,Bern,,3012,Switzerland
+10967,1996-04-22,1996-05-20,1996-05-02,2,62.22,Toms SpezialitÃ¤ten,MÃ¼nster,,44087,Germany
+10968,1996-04-22,1996-05-20,1996-05-01,3,74.6,Ernst Handel,Graz,,8010,Austria
+10969,1996-04-22,1996-05-20,1996-04-29,2,0.21,ComÃ©rcio Mineiro,SÃ£o Paulo,SP,05432-043,Brazil
+10970,1996-04-23,1996-05-07,1996-05-24,1,16.16,BÃ³lido Comidas preparadas,Madrid,,28023,Spain
+10971,1996-04-23,1996-05-21,1996-05-02,2,121.82,France restauration,Nantes,,44000,France
+10972,1996-04-23,1996-05-21,1996-04-25,2,0.02,La corne d'abondance,Versailles,,78000,France
+10973,1996-04-23,1996-05-21,1996-04-26,2,15.17,La corne d'abondance,Versailles,,78000,France
+10974,1996-04-24,1996-05-08,1996-05-03,3,12.96,Split Rail Beer & Ale,Lander,WY,82520,USA
+10975,1996-04-24,1996-05-22,1996-04-26,3,32.27,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10976,1996-04-24,1996-06-05,1996-05-03,1,37.97,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+10977,1996-04-25,1996-05-23,1996-05-10,3,208.5,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10978,1996-04-25,1996-05-23,1996-05-23,2,32.82,Maison Dewey,Bruxelles,,B-1180,Belgium
+10979,1996-04-25,1996-05-23,1996-04-30,2,353.07,Ernst Handel,Graz,,8010,Austria
+10980,1996-04-26,1996-06-07,1996-05-17,1,1.26,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10981,1996-04-26,1996-05-24,1996-05-02,2,193.37,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+10982,1996-04-26,1996-05-24,1996-05-08,1,14.01,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+10983,1996-04-26,1996-05-24,1996-05-06,2,657.54,Save-a-lot Markets,Boise,ID,83720,USA
+10984,1996-04-29,1996-05-27,1996-05-03,3,211.22,Save-a-lot Markets,Boise,ID,83720,USA
+10985,1996-04-29,1996-05-27,1996-05-02,1,91.51,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+10986,1996-04-29,1996-05-27,1996-05-21,2,217.86,OcÃ©ano AtlÃ¡ntico Ltda.,Buenos Aires,,1010,Argentina
+10987,1996-04-30,1996-05-28,1996-05-06,1,185.48,Eastern Connection,London,,WX3 6FW,UK
+10988,1996-04-30,1996-05-28,1996-05-10,2,61.14,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+10989,1996-04-30,1996-05-28,1996-05-02,1,34.76,Que DelÃ­cia,Rio de Janeiro,RJ,02389-673,Brazil
+10990,1996-05-01,1996-06-12,1996-05-07,3,117.61,Ernst Handel,Graz,,8010,Austria
+10991,1996-05-01,1996-05-29,1996-05-07,1,38.51,QUICK-Stop,Cunewalde,,01307,Germany
+10992,1996-05-01,1996-05-29,1996-05-03,3,4.27,The Big Cheese,Portland,OR,97201,USA
+10993,1996-05-01,1996-05-29,1996-05-10,3,8.81,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+10994,1996-05-02,1996-05-16,1996-05-09,3,65.53,Vaffeljernet,Ãrhus,,8200,Denmark
+10995,1996-05-02,1996-05-30,1996-05-06,3,46.0,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+10996,1996-05-02,1996-05-30,1996-05-10,2,1.12,QUICK-Stop,Cunewalde,,01307,Germany
+10997,1996-05-03,1996-06-14,1996-05-13,2,73.91,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+10998,1996-05-03,1996-05-17,1996-05-17,2,20.31,Wolski Zajazd,Warszawa,,01-012,Poland
+10999,1996-05-03,1996-05-31,1996-05-10,2,96.35,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+11000,1996-05-06,1996-06-03,1996-05-14,3,55.12,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
+11001,1996-05-06,1996-06-03,1996-05-14,2,197.3,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+11002,1996-05-06,1996-06-03,1996-05-16,1,141.16,Save-a-lot Markets,Boise,ID,83720,USA
+11003,1996-05-06,1996-06-03,1996-05-08,3,14.91,The Cracker Box,Butte,MT,59801,USA
+11004,1996-05-07,1996-06-04,1996-05-20,1,44.84,Maison Dewey,Bruxelles,,B-1180,Belgium
+11005,1996-05-07,1996-06-04,1996-05-10,1,0.75,Wilman Kala,Helsinki,,21240,Finland
+11006,1996-05-07,1996-06-04,1996-05-15,2,25.19,Great Lakes Food Market,Eugene,OR,97403,USA
+11007,1996-05-08,1996-06-05,1996-05-13,2,202.24,Princesa Isabel Vinhos,Lisboa,,1756,Portugal
+11008,1996-05-08,1996-06-05,,3,79.46,Ernst Handel,Graz,,8010,Austria
+11009,1996-05-08,1996-06-05,1996-05-10,1,59.11,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+11010,1996-05-09,1996-06-06,1996-05-21,2,28.71,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+11011,1996-05-09,1996-06-06,1996-05-13,1,1.21,Alfred's Futterkiste,Berlin,,12209,Germany
+11012,1996-05-09,1996-05-23,1996-05-17,3,242.95,Frankenversand,MÃ¼nchen,,80805,Germany
+11013,1996-05-09,1996-06-06,1996-05-10,1,32.99,Romero y tomillo,Madrid,,28001,Spain
+11014,1996-05-10,1996-06-07,1996-05-15,3,23.6,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+11015,1996-05-10,1996-05-24,1996-05-20,2,4.62,SantÃ© Gourmet,Stavern,,4110,Norway
+11016,1996-05-10,1996-06-07,1996-05-13,2,33.8,Around the Horn,Colchester,Essex,CO7 6JX,UK
+11017,1996-05-13,1996-06-10,1996-05-20,2,754.26,Ernst Handel,Graz,,8010,Austria
+11018,1996-05-13,1996-06-10,1996-05-16,2,11.65,Lonesome Pine Restaurant,Portland,OR,97219,USA
+11019,1996-05-13,1996-06-10,,3,3.17,Rancho grande,Buenos Aires,,1010,Argentina
+11020,1996-05-14,1996-06-11,1996-05-16,2,43.3,Ottilies KÃ¤seladen,KÃ¶ln,,50739,Germany
+11021,1996-05-14,1996-06-11,1996-05-21,1,297.18,QUICK-Stop,Cunewalde,,01307,Germany
+11022,1996-05-14,1996-06-11,1996-06-03,2,6.27,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+11023,1996-05-14,1996-05-28,1996-05-24,2,123.83,B's Beverages,London,,EC2 5NT,UK
+11024,1996-05-15,1996-06-12,1996-05-20,1,74.36,Eastern Connection,London,,WX3 6FW,UK
+11025,1996-05-15,1996-06-12,1996-05-24,3,29.17,Wartian Herkku,Oulu,,90110,Finland
+11026,1996-05-15,1996-06-12,1996-05-28,1,47.09,Franchi S.p.A.,Torino,,10100,Italy
+11027,1996-05-16,1996-06-13,1996-05-20,1,52.52,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+11028,1996-05-16,1996-06-13,1996-05-22,1,29.59,KÃ¶niglich Essen,Brandenburg,,14776,Germany
+11029,1996-05-16,1996-06-13,1996-05-27,1,47.84,Chop-suey Chinese,Bern,,3012,Switzerland
+11030,1996-05-17,1996-06-14,1996-05-27,2,830.75,Save-a-lot Markets,Boise,ID,83720,USA
+11031,1996-05-17,1996-06-14,1996-05-24,2,227.22,Save-a-lot Markets,Boise,ID,83720,USA
+11032,1996-05-17,1996-06-14,1996-05-23,3,606.19,White Clover Markets,Seattle,WA,98124,USA
+11033,1996-05-17,1996-06-14,1996-05-23,3,84.74,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+11034,1996-05-20,1996-07-01,1996-05-27,1,40.32,Old World Delicatessen,Anchorage,AK,99508,USA
+11035,1996-05-20,1996-06-17,1996-05-24,2,0.17,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+11036,1996-05-20,1996-06-17,1996-05-22,3,149.47,Drachenblut Delikatessen,Aachen,,52066,Germany
+11037,1996-05-21,1996-06-18,1996-05-27,1,3.2,Godos Cocina TÃ­pica,Sevilla,,41101,Spain
+11038,1996-05-21,1996-06-18,1996-05-30,2,29.59,SuprÃªmes dÃ©lices,Charleroi,,B-6000,Belgium
+11039,1996-05-21,1996-06-18,,2,65.0,LINO-Delicateses,I. de Margarita,Nueva Esparta,4980,Venezuela
+11040,1996-05-22,1996-06-19,,3,18.84,Great Lakes Food Market,Eugene,OR,97403,USA
+11041,1996-05-22,1996-06-19,1996-05-28,2,48.22,Chop-suey Chinese,Bern,,3012,Switzerland
+11042,1996-05-22,1996-06-05,1996-05-31,1,29.99,ComÃ©rcio Mineiro,SÃ£o Paulo,SP,05432-043,Brazil
+11043,1996-05-22,1996-06-19,1996-05-29,2,8.8,SpÃ©cialitÃ©s du monde,Paris,,75016,France
+11044,1996-05-23,1996-06-20,1996-05-31,1,8.72,Wolski Zajazd,Warszawa,,01-012,Poland
+11045,1996-05-23,1996-06-20,,2,70.58,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+11046,1996-05-23,1996-06-20,1996-05-24,2,71.64,Die Wandernde Kuh,Stuttgart,,70563,Germany
+11047,1996-05-24,1996-06-21,1996-05-31,3,46.62,Eastern Connection,London,,WX3 6FW,UK
+11048,1996-05-24,1996-06-21,1996-05-30,3,24.12,Bottom-Dollar Markets,Tsawassen,BC,T2F 8M4,Canada
+11049,1996-05-24,1996-06-21,1996-06-03,1,8.34,Gourmet Lanchonetes,Campinas,SP,04876-786,Brazil
+11050,1996-05-27,1996-06-24,1996-06-04,2,59.41,Folk och fÃ¤ HB,BrÃ¤cke,,S-844 67,Sweden
+11051,1996-05-27,1996-06-24,,3,2.79,La maison d'Asie,Toulouse,,31000,France
+11052,1996-05-27,1996-06-24,1996-05-31,1,67.26,Hanari Carnes,Rio de Janeiro,RJ,05454-876,Brazil
+11053,1996-05-27,1996-06-24,1996-05-29,2,53.05,Piccolo und mehr,Salzburg,,5020,Austria
+11054,1996-05-28,1996-06-25,,1,0.33,Cactus Comidas para llevar,Buenos Aires,,1010,Argentina
+11055,1996-05-28,1996-06-25,1996-06-04,2,120.92,HILARIÃN-Abastos,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+11056,1996-05-28,1996-06-11,1996-05-31,2,278.96,Eastern Connection,London,,WX3 6FW,UK
+11057,1996-05-29,1996-06-26,1996-05-31,3,4.13,North/South,London,,SW7 1RZ,UK
+11058,1996-05-29,1996-06-26,,3,31.14,Blauer See Delikatessen,Mannheim,,68306,Germany
+11059,1996-05-29,1996-07-10,,2,85.8,Ricardo Adocicados,Rio de Janeiro,RJ,02389-890,Brazil
+11060,1996-05-30,1996-06-27,1996-06-03,2,10.98,Franchi S.p.A.,Torino,,10100,Italy
+11061,1996-05-30,1996-07-11,,3,14.01,Great Lakes Food Market,Eugene,OR,97403,USA
+11062,1996-05-30,1996-06-27,,2,29.93,Reggiani Caseifici,Reggio Emilia,,42100,Italy
+11063,1996-05-30,1996-06-27,1996-06-05,2,81.73,Hungry Owl All-Night Grocers,Cork,Co. Cork,,Ireland
+11064,1996-05-31,1996-06-28,1996-06-03,1,30.09,Save-a-lot Markets,Boise,ID,83720,USA
+11065,1996-05-31,1996-06-28,,1,12.91,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+11066,1996-05-31,1996-06-28,1996-06-03,2,44.72,White Clover Markets,Seattle,WA,98124,USA
+11067,1996-06-03,1996-06-17,1996-06-05,2,7.98,Drachenblut Delikatessen,Aachen,,52066,Germany
+11068,1996-06-03,1996-07-01,,2,81.75,Queen Cozinha,SÃ£o Paulo,SP,05487-020,Brazil
+11069,1996-06-03,1996-07-01,1996-06-05,2,15.67,Tortuga Restaurante,MÃ©xico D.F.,,05033,Mexico
+11070,1996-06-04,1996-07-02,,1,136.0,Lehmanns Marktstand,Frankfurt a.M. ,,60528,Germany
+11071,1996-06-04,1996-07-02,,1,0.93,LILA-Supermercado,Barquisimeto,Lara,3508,Venezuela
+11072,1996-06-04,1996-07-02,,2,258.64,Ernst Handel,Graz,,8010,Austria
+11073,1996-06-04,1996-07-02,,2,24.95,Pericles Comidas clÃ¡sicas,MÃ©xico D.F.,,05033,Mexico
+11074,1996-06-05,1996-07-03,,2,18.44,Simons bistro,KÃ¸benhavn,,1734,Denmark
+11075,1996-06-05,1996-07-03,,2,6.19,Richter Supermarkt,GenÃ¨ve,,1204,Switzerland
+11076,1996-06-05,1996-07-03,,2,38.28,Bon app',Marseille,,13008,France
+11077,1996-06-05,1996-07-03,,2,8.53,Rattlesnake Canyon Grocery,Albuquerque,NM,87110,USA
