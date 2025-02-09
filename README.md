@@ -1,12 +1,15 @@
 # Python-Project-Analyzing-Northwind-Data (In Progress)
-## Intro
+
+## **1. Prpduct Analysis**
+
+### **Intro**
 Northwind Traders is a fictitious company created by Microsoft for the purposes of demonstrating the database capabilities of Microsoft Access and then later for SQL 
 Server. Since then, it has also been used by numerous companies as a sample database to demonstrate how their development tools work. Northwind database consists of
 8 tables which are customers, employees, suppliers, shippers, categories, products, orders and order-details in resemblance of typlical supply chain company business.
 In this project, I used Northwind database to answer various business questions that may occur in real project. The time frame of the database is between 1994 and 1996,
 however, the business questions and the querying methods are very relevant to the current business environment.
 
-## Problem Statement
+### **Problem Statement**
 
 We need to optimize our product portfolio to maximize sales and profitability. Currently, we lack clear insights into product performance, popularity, and contribution to overall revenue. To address this, we will analyze:  
 
@@ -22,7 +25,7 @@ We need to optimize our product portfolio to maximize sales and profitability. C
 - Average growth rate for the top 10 products by revenue  
 - Product discount analysis  
 
-## Objectives  
+### **Objectives  **
 
 - Analyze product demand patterns and trends over time  
 - Evaluate the profitability of each product  
@@ -32,12 +35,15 @@ We need to optimize our product portfolio to maximize sales and profitability. C
 
 This analysis will provide data-driven insights to enhance product portfolio optimization and drive strategic decision-making.
 
-## Data Model
+## **2. Suppliers Analysis**
+(In Progress)
+
+## **Data Model**
 ![](assets/data_model.PNG)
 
-## Data Dictionary
+## **Data Dictionary**
 
-## products
+### products
 | Column Name     | Data Type | Description                                    |
 |-----------------|-----------|------------------------------------------------|
 | ProductName     | String    | Name of the product                            |
