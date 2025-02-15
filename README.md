@@ -1,13 +1,13 @@
 # Python-Project-Analyzing-Northwind-Data (In Progress)
 
-## **1. Prpduct Analysis**
-
-### **Intro**
+## **Intro**
 Northwind Traders is a fictitious company created by Microsoft for the purposes of demonstrating the database capabilities of Microsoft Access and then later for SQL 
 Server. Since then, it has also been used by numerous companies as a sample database to demonstrate how their development tools work. Northwind database consists of
 8 tables which are customers, employees, suppliers, shippers, categories, products, orders and order-details in resemblance of typlical supply chain company business.
 In this project, I used Northwind database to answer various business questions that may occur in real project. The time frame of the database is between 1994 and 1996,
 however, the business questions and the querying methods are very relevant to the current business environment.
+
+## **1. Prpduct Analysis**
 
 ### **Problem Statement**
 
@@ -35,8 +35,37 @@ We need to optimize our product portfolio to maximize sales and profitability. C
 
 This analysis will provide data-driven insights to enhance product portfolio optimization and drive strategic decision-making.
 
-## **2. Suppliers Analysis**
-(In Progress)
+## **2. Suppliers and Shippers Analysis**
+### **Problem Statement**
+We need to optimize our supplier relationships and mitigate supply chain risks. Currently, we lack a clear understanding of supplier performance, concentration, and their impact on our operations. To address this, we aim to conduct a comprehensive analysis of our suppliers and shippers to identify key performance metrics, assess dependency risks, and evaluate their contribution to revenue and operational efficiency.
+
+### **Objectives  **
+1. **Supplier Order Volume Analysis**:
+   - Identify suppliers with the highest number of orders.
+   - Analyze the distribution of orders among suppliers to understand their contribution to overall order volume.
+
+2. **Supplier Dependency Analysis**:
+   - Assess the number of unique products provided by each supplier.
+   - Determine the level of dependency on individual suppliers for the product portfolio and identify potential risks associated with supplier concentration.
+
+3. **Supplier Performance by Revenue and Quantity Analysis**:
+   - Evaluate supplier performance based on total revenue and total quantity sold.
+   - Identify top-performing suppliers and those that may require improvement or renegotiation.
+
+4. **Shipper Analysis**:
+   - Analyze the average shipping time and average freight costs for each shipper.
+   - Identify shippers with the fastest and slowest shipping times, as well as those with the highest freight costs, to optimize logistics and reduce delivery times.
+
+5. **Supplier and Shipper Optimization**:
+   - Use insights from the analysis to optimize supplier relationships, reduce dependency risks, and improve supply chain efficiency.
+   - Identify cost-saving opportunities and improve inventory management by understanding supplier lead times and pricing trends.
+
+6. **Geographical Distribution Analysis**:
+   - Examine the geographical distribution of the supplier base to identify potential risks related to regional dependencies and optimize logistics.
+
+By achieving these objectives, we aim to enhance supplier relationships, mitigate supply chain risks, and improve overall operational efficiency.
+
+
 
 ## **Data Model**
 ![](assets/data_model.PNG)
